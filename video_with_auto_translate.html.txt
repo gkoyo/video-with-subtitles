@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video with Auto-Translate</title>
+</head>
+<body>
+    <h1>Vidéo avec sous-titres en français</h1>
+    <p>Cliquez sur la vidéo ci-dessous pour la visionner avec des sous-titres traduits automatiquement en français :</p>
+    <div>
+        <iframe 
+            width="560" 
+            height="315" 
+            src="https://www.youtube.com/embed/fNd_ObSFZfk?start=102&cc_load_policy=1&cc_lang_pref=fr" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+    <p>Assurez-vous que les sous-titres sont activés en cliquant sur le bouton CC si nécessaire.</p>
+</body>
+</html>
